@@ -1,0 +1,19 @@
+{
+    "name": "liu/123",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Liu\\123\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zz",
+            "email": "1044220795@qq.com"
+        }
+    ]
+}
